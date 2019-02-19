@@ -1,0 +1,2 @@
+# Fast_Pandas_Wrapper
+pandasの処理を高速化したtipsを集約して少しでも快適に使うためのプロジェクト
